@@ -1,0 +1,6 @@
+#security_group_name    = "example"
+cidr_block     = "10.0.0.0/16"
+instance_tenancy = "default"
+access_key       = "AKIAXZGZHBUA2HAZVJYO"
+secret_key = "mh5N+jqPTzilsFR4yHEO3zaGutmJI4fV3wYXopZ5"
+region     = "ap-south-1"
